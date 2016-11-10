@@ -1,0 +1,18 @@
+.blue {
+    width:800px;
+    margin:0 auto;
+    background-color:lightblue;
+    padding:30px;
+}
+.form-group {
+    width:400px;
+    margin:0 auto;
+}
+.white {
+    background:white;
+    width:500px;
+    margin:0 auto;
+    padding:30px;
+    text-align:center;
+}
+
